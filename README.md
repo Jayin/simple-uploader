@@ -37,7 +37,7 @@ bower install --save simple-uploader
 ```
 
 ```js
-var uploader = simple.uploader({
+var uploader = SimpleUploader({
   url: '/upload/url'
 });
 
